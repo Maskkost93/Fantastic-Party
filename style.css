@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+}
+
+header {
+    border: 3px solid lightblue;
+    border-radius: 15px;
+    padding: 10px;
+    color: mediumblue;
+    font-size: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    background-color: darkblue;
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+main h1 {
+    color: orange;
+    border: 3px solid darkviolet;
+    border-radius: 10px;
+    text-align: center;
+}
+
+footer p {
+    background-color: green;
+}
+
+.contacts {
+    padding-left: 30px;
+}
+
+nav {
+    background-color: green;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+}
+
+nav a {
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+}
+
